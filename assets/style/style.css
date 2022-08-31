@@ -1,0 +1,16 @@
+h1 {
+  /* color: aliceblue; */
+}
+.jumbotron{
+  padding-top: 6rem;
+  /*padding: 2rem 1rem;*/
+  background-color: #e2eedf;
+}
+#galeri{
+  background-color: #e2eedf;
+}
+.card img{
+}
+section{
+  padding-top: 5rem;
+}
